@@ -1,0 +1,12 @@
+Para crear un usuario con el rol de administrador ingresar al subdominio: /registroAdmin 
+
+
+Trabajo Grupal desarrollado por Buccieri Franco, Pesce Santino y Vommaro Nicolas.
+
+Buccieri Franco:    Frontend (views y estructuración del sitio). Selección / Optimización de imágenes, correcta navegación a través de las distintas secciones del sitio.
+
+Pesce Santino:      Login y su correcta validación así como también el registro de usuarios y administradores.
+
+Vommaro Nicolas:    Base de Datos, creación de tablas en MySQL.  
+
+Buccieri y Pesce:   Conexión de la base de datos con el frontend a fin de mostrar la información traida de las tablas de MySQL, tanto sección Blog, Estiramientos y Clases Personalizadas. El apartado ABM exclusivo para usuarios administradores, la cual se encuentra dentro de la barra de navegación.
